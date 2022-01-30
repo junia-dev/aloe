@@ -1,0 +1,9 @@
+.main-app {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
